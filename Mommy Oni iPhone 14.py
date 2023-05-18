@@ -1,0 +1,1 @@
+print("Ako'y tahimik lang sa umpisa. Kahit 'di mo 'ko pilitin. Malasing mo lang ako agad sasama..")
